@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Laraibkhalid111
-- 🌱 I’m currently learning C language
+- 🌱 I’m currently learning Java
 - 💞️ I’m looking to collaborate on 
 - 📫 How to reach me laraibkhalid1010@gmail.com
 - 😄 Pronouns: ...
