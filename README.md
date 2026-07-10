@@ -37,9 +37,9 @@ Git
 
 GitHub
 
-Firebase
+python 
 
-AWS
+nodejs
 
 ---
 
@@ -49,11 +49,10 @@ AWS
 
 🤖 FlashMind AI
 
-🌾 AgriNova
-
 🛒 Amazon Clone
 
 📚 DSA in Java
+
 
 ---
 
