@@ -56,8 +56,6 @@ nodejs
 
 ---
 
-## Let's Connect
-
 ## 📫 Connect With Me
 
 * **Email:** `laraibkhalid1010@gmail.com`
