@@ -86,12 +86,18 @@ AI-powered productivity platform designed to improve learning, note organization
 
 ## 🛒 Amazon Clone
 
-Responsive React application featuring
+## 🛒 Amazon Clone
 
-- Product Listings
-- Shopping Cart
-- Authentication
-- Firebase Integration
+A responsive front-end clone of the Amazon homepage built using HTML and CSS.
+
+**Features**
+- Responsive layout
+- Product sections
+- Navigation bar
+- Hero banner
+- Footer
+- Clean and modern UI
+
 
 ---
 
@@ -124,7 +130,6 @@ Responsive React application featuring
 ## Database
 
 ![MySQL](https://img.shields.io/badge/MySQL-black?style=for-the-badge&logo=mysql)
-![Firebase](https://img.shields.io/badge/Firebase-orange?style=for-the-badge&logo=firebase)
 
 ---
 
@@ -137,15 +142,6 @@ Responsive React application featuring
 
 ---
 
-# 📈 GitHub Analytics
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=LaraibKhalid111&show_icons=true&theme=tokyonight"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LaraibKhalid111&layout=compact&theme=tokyonight"/>
-
-</p>
 
 ---
 
@@ -159,13 +155,6 @@ Responsive React application featuring
 
 ---
 
-# 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=LaraibKhalid111&theme=tokyonight&margin-w=15"/>
-
-</p>
 
 ---
 
